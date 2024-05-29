@@ -1,3 +1,7 @@
 node_modules
 config.env
-public
+<<<<<<< HEAD
+# public
+=======
+# public/
+>>>>>>> 83d171664e9c76602a24d558bd78031d605f8ffc
