@@ -14,8 +14,7 @@ app.use(morgan("dev"));
 app.use(express.json());
 app.use(
   cors({
-    origin:
-      "https://mernblog-3rhlpmvv7-kartikays-projects-c448a263.vercel.app/",
+    origin: "http://localhost:3000",
     credentials: true,
   })
 );
